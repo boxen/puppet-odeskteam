@@ -1,4 +1,7 @@
 # This is a placeholder class.
-class template {
-  anchor { 'Hello_World': }
+class odeskteam {
+  package { 'oDeskTeam':
+    provider => 'pkgdmg',
+    source   => 'https://www.odesk.com/downloads/mac/minor/oDeskTeam.dmg'
+  }
 }
