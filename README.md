@@ -1,6 +1,7 @@
 # oDesk Team Puppet Module for Boxen
 
 oDesk Team
+
 A free desktop application is your virtual office, enabling visibility,
 connectivity, collaboration and guaranteed payment for guaranteed work.
 
