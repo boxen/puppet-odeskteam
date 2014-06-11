@@ -5,7 +5,7 @@ oDesk Team
 A free desktop application is your virtual office, enabling visibility,
 connectivity, collaboration and guaranteed payment for guaranteed work.
 
-[![Build Status](https://travis-ci.org/singuerinc/puppet-odeskteam.png?branch=master)](https://travis-ci.org/singuerinc/puppet-odeskteam)
+[![Build Status](https://travis-ci.org/boxen/puppet-odeskteam.svg?branch=master)](https://travis-ci.org/boxen/puppet-odeskteam)
 
 ## Usage
 
